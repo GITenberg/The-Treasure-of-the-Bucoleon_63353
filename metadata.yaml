@@ -1,0 +1,30 @@
+_repo: The-Treasure-of-the-Bucoleon_63353
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Arthur D. Howden (Arthur Douglas Howden)
+    aliases:
+    - Smith, A. D. Howden (Arthur Douglas Howden)
+    - Smith, Arthur Douglas Howden
+    birthdate: 1887
+    deathdate: 1945
+    gutenberg_agent_id: '52393'
+    url: http://www.gutenberg.org/2009/agents/52393
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_D._Howden_Smith
+description: ''
+gutenberg_issued: '2020-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Constantinople -- Fiction'
+- !lcsh 'Treasure troves -- Fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: The Treasure of the Bucoleon
+url: http://www.gutenberg.org/ebooks/63353
